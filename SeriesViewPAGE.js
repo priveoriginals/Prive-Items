@@ -1,6 +1,4 @@
 
-<script>
-
 /*==================================================
 SERIES VIEW PAGE v2.0
 SINGLE CLEAN SCRIPT
@@ -9,11 +7,6 @@ SINGLE CLEAN SCRIPT
 (function(){
 
 "use strict";
-
-/*==================================================
-RUN ONLY ON SERIES VIEW PAGE
-==================================================*/
-
 if (!document.querySelector(".series-view-page")) {
     return;
 }
@@ -5037,5 +5030,4 @@ else{
 
 
 })();
-</script>
     
